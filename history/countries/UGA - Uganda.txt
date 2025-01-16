@@ -28,6 +28,8 @@ recruit_character = UGA_acgs
 recruit_character = UGA_mt
 recruit_character = UGA_nccr
 
+recruit_character = UGA_philip_mitchell
+promote_character = UGA_philip_mitchell
 set_cosmetic_tag = UGA_UK
 1939.1.1 = {
 	
@@ -76,26 +78,21 @@ set_cosmetic_tag = UGA_UK
 	}
 }
 ENG = {
-	if = {
-		limit = {
-			has_dlc = "Together for Victory"
-		}
-		set_autonomy = {
-			target = UGA
-			autonomous_state = autonomy_colony
-		}
+	set_autonomy = {
+		target = UGA
+		autonomous_state = autonomy_colony
 	}
 	add_to_faction = UGA
 }
 set_politics = {
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	democratic = 55
-	fascism = 15
-	communism = 5
-	neutrality = 25
+	democratic = 0
+	fascism = 0
+	communism = 0
+	neutrality = 100
 }
