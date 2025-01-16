@@ -1,0 +1,11 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_portrait_KEN_joseph_byrne"
+		texturefile = "gfx/leaders/KEN/portrait_KEN_joseph_byrne.dds"
+	}	
+	spriteType = {
+		name = "GFX_portrait_TZN_harold_macmichael"
+		texturefile = "gfx/leaders/TZN/portrait_TZN_harold_macmichael.dds"
+	}
+
+}

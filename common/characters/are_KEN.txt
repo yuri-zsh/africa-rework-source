@@ -1,0 +1,16 @@
+characters={
+	KEN_sir_joseph_aloysius_byrne={
+		name=KEN_sir_joseph_aloysius_byrne
+		portraits={
+			civilian={
+				large=GFX_portrait_KEN_joseph_byrne
+			}
+		}
+		country_leader={
+			ideology=centrism
+			traits={ }
+			expire="1942.11.13.1"
+			id=-1
+		}
+	}
+}
