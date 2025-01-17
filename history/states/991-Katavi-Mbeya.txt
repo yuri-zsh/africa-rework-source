@@ -1,0 +1,19 @@
+state={
+	id=991
+	name="STATE_991"
+	provinces={
+		2176 10988 13387 2281
+	}
+	history={
+		owner = TZN
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = TZN
+	}
+	manpower=500000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

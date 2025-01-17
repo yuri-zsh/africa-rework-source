@@ -2,7 +2,7 @@ state={
 	id=985
 	name="STATE_985"
 	provinces={
-		2176 2281 5180 10988 
+		2196 5180 8144 
 	}
 	history={
 		owner = TZN
