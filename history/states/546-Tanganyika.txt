@@ -5,7 +5,7 @@ state={
 		rubber=20.000
 	}
 	provinces={
-		4171 10932 13403 13406
+		4171 13448 13452 10932
 	}
 	history={
 		owner = TZN

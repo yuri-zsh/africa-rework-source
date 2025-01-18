@@ -2,7 +2,7 @@ state={
 	id=984
 	name="STATE_984"
 	provinces={
-		5224 13397 13399 13400 13402  
+		5224 13397 13399 13402 
 	}
 	history={
 		owner = TZN
@@ -13,7 +13,7 @@ state={
 		add_core_of = TZN
 	}
 	manpower=500000
-	state_category = pastoral
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 	local_supplies=0.000
 }
