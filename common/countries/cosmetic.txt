@@ -1551,3 +1551,23 @@ MLW_UK = {
 	color_ui = rgb { 201  56  93 }
 
 }
+NGA_UK = {
+	color = rgb { 201  56  93 }
+	color_ui = rgb { 201  56  93 }
+
+}
+GHA_UK = {
+	color = rgb { 201  56  93 }
+	color_ui = rgb { 201  56  93 }	
+
+}
+SIE_UK = {
+	color = rgb { 201  56  93 }
+	color_ui = rgb { 201  56  93 }	
+
+}
+GAM_UK = {
+	color = rgb { 201  56  93 }
+	color_ui = rgb { 201  56  93 }	
+
+}
